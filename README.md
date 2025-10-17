@@ -1,1 +1,1 @@
-https://hub.2i2c.mybinder.org/user/linukkx-interactive-code-xkmjfbg6/lab
+Interactive code[Launch in Binder]https://mybinder.org/v2/gh/Linukkx/Interactive-Code/HEAD
